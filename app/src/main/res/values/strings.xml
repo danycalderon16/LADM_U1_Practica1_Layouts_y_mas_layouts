@@ -1,0 +1,186 @@
+<resources>
+    <string name="app_name">LADM_U1_Practica1_LayoutsYMasLayouts</string>
+    <string name="title_app">App de Idiomas</string>
+    <string name="text_title">Aprende ingles con esta aplicación</string>
+    <string name="text_card_1">¿Por qué aprender ingles?</string>
+    <string name="text_card_2">Gramática y fonemas</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_tabbed">TabbedActivity</string>
+    <string name="tab_text_1">Verbo To Be</string>
+    <string name="tab_text_2">Fonemas</string>
+    <string name="title_tabs">Gramática y Fonemas</string>
+    <string name="large_text">
+       "<b>Por qué aprender inglés? 10 Razones para aprender el idioma inglés</b>\n\n"
+
+       "El idioma inglés es el idioma más usado por las personas que hablan un idioma extranjero.\n"
+       "El saber inglés te hará ser una persona bilingüe y será más fácil que te puedan emplear en cualquier país extranjero.\n\n"
+       "Además de China, Los Estados Unidos son aún un país líder en el desarrollo económico e innovación técnica.\n\n"
+       "El idioma inglés ha sido más ampliamente hablado en el mundo debido a la expansión durante la época colonial.\n\n"
+       "El idioma inglés, es el idioma que se usa en las ciencias.\n\n"
+       "El idioma inglés está basado en el alfabeto y comparado con el chino, se puede aprender fácilmente.\n\n"
+       "El idioma inglés es también el idioma de la industria del cine.\n\n"
+       "En Los Estados Unidos, hablar inglés te abre oportunidades a pesar de tu origen étnico, color o tus antecedentes.\n\n"
+       "Aprende el idioma y después podrás enseñarlo a tus hijos.\n\n"
+       "Las personas que hablan inglés en Los Estados Unidos ganan más dinero que las personas que no lo hablan.\n\n\n"
+
+       "<b>1. Por qué estudiar inglés: para trabajar</b>\n"
+       "Tal vez la razón fundamental del por qué estudiar inglés es tan importante, es porque el inglés es"
+       "fundamental a la hora de encontrar trabajo. El inglés nos dará acceso a una mejor educación y por"
+       "lo tanta a la posibilidad de un mejor puesto de trabajo. Nuestras oportunidades laborales se"
+       "multiplicarán en cuanto dominemos el idioma. Tanto en áreas gubernamentales como en empresas"
+       "multinacionales, sin importar tu campo de trabajo, el inglés te aportará siempre ventajas a"
+       "la hora de ascender o acceder a otro puesto de trabajo, ayudándote a mejorar tu situación laboral actual.\n\n"
+
+       "<b>2. Por qué estudiar inglés: educación e información</b>\n"
+       "Otra importante razón para aprender inglés es que podremos acceder a una educación mejor,"
+       "sin limitarnos a las universidades o centros de formación de nuestro propio país. Además"
+       "nos dará acceso a información más actual y completa, conoceremos los últimos avances y"
+       "podremos acceder a la mayoría de textos científicos, académicos y tecnológicos, escritos"
+       "en inglés. Según un estudio más del 56% de los sitios de Internet están editados en inglés."
+       " En segundo lugar se encuentra el alemán con un 8%.\n\n"
+
+       "<b>3. Por qué estudiar inglés: vacaciones</b>\n"
+       "Estudiar inglés es la mejor excusa para pasar unas vacaciones estupendas. Un viaje de idiomas"
+       "al extranjero es la mejor forma de aprender el inglés, de conocer una nueva cultura y gente"
+       "interesante, de visitar lugares increíbles y disfrutar en general de unas vacaciones inolvidables\n\n."
+
+       "<b>4. Por qué estudiar inglés: otras culturas</b>\n"
+       "Estudiar inglés es importante porque te mostrará otras culturas, estilos de vida y diferentes"
+       "formas de pensar. Podrás conocer gente nueva e interesante y comprender sus costumbres. Te"
+       "dará de esta forma la oportunidad de verte a ti mismo con otros ojos, y tal vez descubras"
+       "aspectos de ti o de tu cultura en los que no habías recapacitado antes.\n\n"
+
+       "<b>5. Por qué estudiar inglés: viajar</b>\n"
+       "Hablar inglés te permitirá viajar alrededor de todo el mundo y darte a entender. Podrás"
+       "disfrutar de tu viaje plenamente ya que el inglés se habla en los cinco continentes, y"
+       "te evitará situaciones estresantes causadas por la barrera del idioma. Además de ser el"
+       "idioma franco en casi todo el planeta, el inglés es el idioma oficial de numerosos países"
+       "como Inglaterra, Irlanda, Estados Unidos, Canadá, Malta, Australia, Nueva Zelanda, así como"
+       "algunos países del Caribe, Asia y África.\n\n"
+
+       "<b>6. Por qué estudiar inglés: el idioma más aprendido</b>\n"
+       "¿Sabías que el español es el segundo idioma más hablado en todo el mundo por número de"
+       "hablantes nativos, por detrás del chino y por encima del inglés? Entonces ¿por qué estudiar"
+       "inglés si ya sé español? El inglés es el idioma más aprendido como segunda lengua. Si bien"
+       "el número de nativos que hablan inglés son entre 300 y 400 millones, el número de personas"
+       "que lo aprenden como una segunda lengua es el mismo, superando al resto de los idiomas."
+       "Además saber inglés nos ayudará a entender mejor nuestra cultura y nuestro idioma, ya que"
+       "no son pocos los anglicismos que pueblan nuestra vida cotidiana.\n\n"
+
+       "<b>7. Por qué estudiar inglés: superación personal</b>\n"
+       "Aprender inglés es más fácil de lo que piensas, y el orgullo que sentirás cuando lo hayas"
+       "hecho es indescriptible. Recuerda que se hace camino al andar, y una vez superado el primer"
+       " paso (decidir qué quieres aprender inglés), el resto viene seguido. A medida que vayan"
+       "aumentando tus conocimientos y vocabulario; cada vez que notes que entiendes mejor, tu"
+       "confianza en ti mismo también irá aumentando. Perderás todos los miedos y te soltarás a"
+       "hablar en inglés sin pensarlo.\n\n"
+
+       "<b>8. Por qué aprender inglés: arte y literatura</b>\n"
+       "Sabiendo inglés podrás disfrutar del humor británico, de la literatura, el cine y el teatro"
+       " anglosajón, y de la cultura en inglés en general. Con el inglés podrás apreciar mejor los"
+       "juegos de palabras, las bromas, las metáforas y todos los matices que se pierden en las"
+       "traducciones. Podrás ver películas en versión original, entender la letra de las canciones"
+       "anglófonas o apreciar las historias y enredos de tus videojuegos favoritos. Cuando tu nivel"
+       "sea más alto, incluso podrás atreverte con la obra de Shakespeare.\n\n"
+
+       "<b>9. Por qué estudiar inglés: otras habilidades</b>\n"
+       "Saber inglés significa poder expresarse de forma fluida y sin tropiezos, exponiendo nuestras"
+       " ideas con orden y claridad ante un público nativo. Porque también significa entender y"
+       "asimilar las ideas y respuestas que nos proporcionen otras personas, la radio, la televisión,"
+       "así como los textos que leamos. Según investigaciones científicas, estudiar inglés o aprender"
+       "una lengua en general produce ciertos estímulos en el cerebro que nos ayudan a mejorar nuestras"
+       "habilidades en otras áreas como son la creatividad, la resolución de problemas, el razonamiento"
+       "o la habilidad mental. Si demostrar tus habilidades idiomáticas supone un estrago para ti,"
+       "aprende inglés y elimina este problema.\n\n"
+
+       "<b>10. Por qué estudiar inglés: porque es el idioma universal</b>\n"
+       "El inglés es el idioma de la comunicación internacional, del comercio y las finanzas."
+       "El inglés es una lengua franca en muchos rincones del planeta y el idioma oficial de"
+       "muchas Organizaciones Internacionales como la Unión Europea, Naciones Unidas o la Unesco."
+       "Esto se debe a razones históricas y políticas, debido a la importancia que tuvo el Imperio"
+       "Británico en el pasado, cuando extendió su lengua por todos los continentes, y a la"
+       "importancia como potencia actual de Estados Unidos. Por todo esto podemos decir que es"
+       "el idioma universal, el que te ayudará a comunicarte sin barreras.\n\n"
+    </string>
+    <string name="grammar_rules">
+        "<b>Significado del verbo to be</b>\n\n"
+        "El verbo to be es uno de los más camaleónicos del inglés, por lo que en muchas ocasiones"
+        "su significado depende del contexto en el que te lo encuentres. Sin embargo, sus"
+        "significados principales son los siguientes:\n\n"
+
+        "1.- Ser\n\n"
+
+        "He is smart = Él es inteligente\n\n\n"
+
+        "2.- Estar\n\n"
+
+        "It is cold today = Hoy está hacienda frío\n\n\n"
+
+        "3.- Haber\n\n"
+
+        "Is there anybody inside? = ¿Hay alguien adentro?\n\n\n"
+
+        "4.- Poder (permiso)\n\n"
+
+        "Tell her she is not to open the door to strangers = Dile que no puede abrirle la puerta a extraños.\n\n\n\n"
+
+        "<b>Usos principales del verbo to be</b>\n"
+        "Una vez que ya conocemos sus significados más conocidos, podemos conocer los usos más"
+        "comunes de este término:\n\n"
+
+        "- Verbo\n\n"
+
+        "Sirve para mencionar una acción o estado del sujeto en cualquier tiempo.\n\n\n"
+
+        "I am Mexican = Soy mexicano.\n\n"
+
+        "I was a doctor = Yo era doctor.\n\n\n"
+
+        "- Verbo auxiliar\n\n"
+
+        "Se usa en compañía de otros verbos para dar a entender que las acciones o estados se"
+        "desarrollan en el momento. Para ello se usa la conjugación –ing.\n\n"
+
+        "I am still working= Todavía estoy trabajando.\n\n"
+    </string>
+    <string name="phonemes">
+        "<b>Fonemas de las vocales</b>\n\n"
+
+        "Antes de estudiar los fonemas en inglés, debes saber que este idioma cuenta con más"
+        "vocales que el español, ya que dependiendo de las letras que las acompañen, sonarán"
+        "de manera diferente.\n\n"
+        
+        "Las vocales según su sonido en inglés, se clasifican en:\n\n\n"
+        
+        "<b>Vocales cortas:</b>\n\n"
+        
+        "/I/: esta es la “i” corta y se usa en palabras como: bill, it, hit, live.\n\n"
+        
+        "/e/: esta suena igual a nuestra “e”. Por ejemplo: end, test, friend, bed.\n\n"
+        
+        "/æ/: esta se pronuncia como una “a” y se encuentra en palabras como: cat, can, hat, plan.\n\n"
+        
+        "/Ʌ/: esta es otra “a” corta, pero se articula de manera diferente. Por ejemplo: up, cut, luck.\n\n"
+        
+        "/ɒ/: este fonema se pronuncia como una “o” corta, y la puedes encontrar en palabras como sorry, clock, rock, hot.\n\n"
+        
+        "/ʊ/: su pronunciación es como nuestra u, pero más corta. Por ejemplo: pull, foot, could, put.\n\n"
+        
+        "/ə/: este pronuncia como una combinación entre la “o” y la “a”. Se puede encontrar en palabras como: away, about, nervous.\n\n\n"
+                
+        "<b>Vocales largas:</b>\n\n"
+        
+        "/ā/: se pronuncia “ei”. La puedes encontrar en palabras como: baby, snail.\n\n"
+        
+        "/i:/: se pronuncia como una “i” larga, o sea “ii”. Por ejemplo: bee, me, beach, repeat.\n\n"
+        
+        "/aɪ/: se pronuncia como “ai”. Se encuentra en palabras como: spider, fly, night, island.\n\n"
+        
+        "/ɔ:/: este sonido sería como una “o” larga, se pronuncia “ou”. La puedes encontrar en palabras como: boat, bone, open.\n\n"
+        
+        "/u:/: se pronuncia como una “u” larga, o sea “uu”. Por ejemplo: moon, fruit, who, blue.\n\n"
+        
+        "/y/, /ü/: estas suenan igual y se pronuncian “iu”. Por ejemplo: uniform, you, few.\n\n"
+    </string>
+</resources>
