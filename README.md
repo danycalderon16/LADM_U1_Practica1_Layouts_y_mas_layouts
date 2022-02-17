@@ -9,3 +9,9 @@ LABORATORIO DE APLICACIONES PARA DISPOSITIVOS MOVILES
 MTI SERGIO BENIGNO CASTILLO VALTIERRA    
 
 ## Aplicación para aprender ingles  
+
+![avatar](img1.jpeg)  
+
+![avatar](img2.jpeg)  
+
+![avatar](img3.jpeg)  
