@@ -1,11 +1,11 @@
-# Practica 1 Layouts y más layouts
+# Práctica 1 Layouts y más layouts
 
-Daniel Alejandro Calderon Virgen  
+Daniel Alejandro Calderón Virgen  
 No Crtl 18401090  
 Ing en Sistemas Computacionales  
 Tecnológico Nacional de México, Campus Tepic    
 
-LABORATORIO DE APLICACIONES PARA DISPOSITIVOS MOVILES  
+LABORATORIO DE APLICACIONES PARA DISPOSITIVOS MÓVILES  
 MTI SERGIO BENIGNO CASTILLO VALTIERRA    
 
 ## Aplicación para aprender ingles  
